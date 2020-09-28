@@ -15,7 +15,7 @@
   {
     "repository"  : "aosip-devices/vendor_oneplus",
     "target_path" : "vendor/oneplus",
-    "branch": "ten-cam",
+    "branch": "eleven-op5",
     "remote": "github"
   },
   {
