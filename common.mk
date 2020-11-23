@@ -166,10 +166,6 @@ PRODUCT_PACKAGES += \
     com.quicinc.cne \
     services-ext
 
-# CryptfsHW
-PRODUCT_PACKAGES += \
-    vendor.qti.hardware.cryptfshw@1.0-service-qti.qsee
-
 # Custom Doze
 PRODUCT_PACKAGES += \
     CustomDoze
