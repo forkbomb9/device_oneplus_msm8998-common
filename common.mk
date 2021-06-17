@@ -480,10 +480,6 @@ PRODUCT_PACKAGES += \
     android.hardware.thermal@1.0-service \
     thermal.msm8998
 
-# USB
-PRODUCT_PACKAGES += \
-    android.hardware.usb@1.0-service.basic
-
 # Vendor properties
 -include $(LOCAL_PATH)/vendor_prop.mk
 
